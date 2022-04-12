@@ -1,0 +1,80 @@
+/* .productList {
+    display: flex;
+    justify-content: space-evenly;
+    background: white;
+    border-radius: 12px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 10px;
+    filter: drop-shadow(1px 1px 1px black);
+  } */
+
+  .dispensaryList {
+    display: flex;
+    justify-content: space-evenly;
+    background: white;
+    border-radius: 12px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 10px;
+    filter: drop-shadow(1px 1px 1px black);
+  }
+  
+  
+  
+  /* .productList_details {
+    margin: 20px;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+  } */
+
+  .dispensaryList_details {
+    margin: 20px;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+  }
+
+  dispensaryList
+  
+  /* .productList_buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    height: max-content;
+  } */
+
+  .dispensaryList_buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    height: max-content;
+  }
+
+  /* .productList_buttons > button {
+    margin: 5px;
+  } */
+  
+  .dispensaryList_buttons > button {
+    margin: 5px;
+  }
+  
+  /* .product__rating {
+    display: flex;
+    flex-direction: row;
+  } */
+
+  .dispensary__rating {
+    display: flex;
+    flex-direction: row;
+  }
+  
